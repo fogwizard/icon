@@ -1,0 +1,5 @@
+[gerrit]
+host=smart-meter.in
+port=29418
+project=icon
+defaultbranch=master
