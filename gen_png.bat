@@ -4,7 +4,7 @@ if exist %1 (
    mkdir %1
 )
 if exist %4 (
-   inkscape -w %2  -h %3 %%i --export-filename %1/%4.png
+   inkscape -w %2  -h %3  %4 --export-filename %1/%4.png
    exit
 )
 
