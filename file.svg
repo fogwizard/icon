@@ -1,1 +1,69 @@
-<?xml version="1.0" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg t="1618107051404" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="2708" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200"><defs><style type="text/css"></style></defs><path d="M916.210526 970.105263H107.789474V53.894737h592.842105l215.578947 204.8V970.105263zM161.684211 916.210526h700.631578V285.642105L679.073684 107.789474H161.684211v808.421052z" fill="#444A5C" p-id="2709"></path><path d="M916.210526 323.368421h-269.473684V53.894737h53.894737v215.578947h215.578947v53.894737zM592.842105 431.157895H269.473684v53.894737h323.368421V431.157895z m-323.368421 107.789473v53.894737h485.052632v-53.894737H269.473684z m0 161.684211h485.052632v-53.894737H269.473684v53.894737z m0 107.789474h485.052632v-53.894737H269.473684v53.894737z" fill="#444A5C" p-id="2710"></path></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   t="1618107051404"
+   class="icon"
+   viewBox="0 0 1024 1024"
+   version="1.1"
+   p-id="2708"
+   width="200"
+   height="200"
+   id="svg10"
+   sodipodi:docname="file.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="961"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="3.675"
+     inkscape:cx="100"
+     inkscape:cy="100"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <defs
+     id="defs4">
+    <style
+       type="text/css"
+       id="style2" />
+  </defs>
+  <path
+     d="M916.210526 970.105263H107.789474V53.894737h592.842105l215.578947 204.8V970.105263zM161.684211 916.210526h700.631578V285.642105L679.073684 107.789474H161.684211v808.421052z"
+     fill="#444A5C"
+     p-id="2709"
+     id="path6"
+     style="fill:#000000" />
+  <path
+     d="M916.210526 323.368421h-269.473684V53.894737h53.894737v215.578947h215.578947v53.894737zM592.842105 431.157895H269.473684v53.894737h323.368421V431.157895z m-323.368421 107.789473v53.894737h485.052632v-53.894737H269.473684z m0 161.684211h485.052632v-53.894737H269.473684v53.894737z m0 107.789474h485.052632v-53.894737H269.473684v53.894737z"
+     fill="#444A5C"
+     p-id="2710"
+     id="path8"
+     style="fill:#000000" />
+</svg>
