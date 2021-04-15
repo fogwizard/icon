@@ -1,1 +1,22 @@
-<?xml version="1.0" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg t="1618495627603" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="64315" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200"><defs><style type="text/css"></style></defs><path d="M678.968889 0a38.4 38.4 0 0 1 38.115555 33.28v229.546667a116.337778 116.337778 0 0 1 75.946667 99.84V910.222222a113.777778 113.777778 0 0 1-107.235555 113.777778h-341.333334a115.2 115.2 0 0 1-113.777778-107.235556V371.2a113.777778 113.777778 0 0 1 77.368889-108.657778V38.4A38.684444 38.684444 0 0 1 341.333333 0h337.635556z m-38.4 76.8h-256V256h256V76.8z" fill="#231815" p-id="64316"></path></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="210mm" height="297mm" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 210 297"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:black;stroke-width:4}
+    .str0 {stroke:black;stroke-width:10}
+    .fil0 {fill:black}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0 str0" d="M139.439 296.988l-110.63 0c-15.8902,0 -28.7874,-12.8969 -28.7874,-28.7856l0 -162.56c0,-15.8888 12.8972,-28.7874 28.7874,-28.7874l110.63 0c15.8888,0 28.7874,12.8987 28.7874,28.7874l0.0001 162.56c0,15.8887 -12.8987,28.7856 -28.7875,28.7856zm-108.373 -14.6745l106.116 0c9.0301,0 16.3681,-7.3381 16.3681,-16.3699l0.0001 -158.045c0,-9.0301 -7.3382,-16.3682 -16.3682,-16.3682l-106.116 0c-9.0319,0 -16.3682,7.3381 -16.3682,16.3682l0 158.045c0,9.0318 7.3363,16.3699 16.3682,16.3699z"/>
+  <path class="fil0 str1" d="M141.698 88.991l-115.148 0 0 -71.6842c0,-4.9956 4.0365,-9.0317 9.0319,-9.0317l97.0841 -0.0002c4.9953,0 9.0318,4.0363 9.0318,9.032l0 71.6841zm-100.472 -14.6765l85.7952 0 0 -51.3633 -85.7952 0 0 51.3633zm31.6079 -25.6825l-16.9334 0 16.9334 0z"/>
+  <path class="fil0 str1" d="M55.9011 41.2957l16.9334 0 0 14.6745 -16.9334 0 0 -14.6745zm56.1637 7.3363l-16.9334 0 16.9334 0zm-16.9334 -7.3363l16.9334 0 0 14.6745 -16.9334 0 0 -14.6745zm32.596 201.224l-87.2063 0 87.2063 0zm-87.2063 -7.3381l87.2063 0 0 14.6762 -87.2063 0 0 -14.6762z"/>
+ </g>
+</svg>
